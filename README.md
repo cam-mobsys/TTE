@@ -17,24 +17,12 @@ If you have any questions please email at hong.jia@unimelb.edu.au and ydk21@cam.
 If you find this code useful for your research, please consider citing the following papers:
 
 ```
-@inproceedings{jia2024tinytta,
+@article{jia2024tinytta,
   title={TinyTTA: Efficient Test-time Adaptation via Early-exit Ensembles on Edge Devices},
   author={Jia, Hong and Kwon, Young and Orsino, Alessio and Dang, Ting and Talia, Domenico and Mascolo, Cecilia},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={43274--43299},
   year={2024}
-}
-
-@inproceedings{jia2023ur2m,
-  title={UR2M: Uncertainty and Resource-Aware Event Detection on Microcontrollers},
-  author={Jia, Hong and Kwon, Young D. and Ma, Dong and Pham, Nhat and Qendro, Lorena and Vu, Tam and Mascolo, Cecilia},
-  booktitle={2023 IEEE International Conference on Pervasive Computing and Communications (PerCom)},
-  year={2023}
-
-@inproceedings{kwon2023tinytrain,
-  title={TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge},
-  author={Kwon, Young D. and Li, Rui and Venieris, Stylianos I. and Chauhan, Jagmohan and Lane, Nicholas D. and Mascolo, Cecilia},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2023}
-}
 }
 ```
